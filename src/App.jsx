@@ -26,7 +26,7 @@ function App() {
       <div className='last'>
 
 
-        <button className='account'>Creare new account</button>
+        <button className='account'>Create new account</button>
         <br />
         <div className="meta">
 
@@ -39,7 +39,7 @@ function App() {
 }
 
 const Container = styled.div`
-/* margin-left: 200px; */
+margin-left: 120px;
 
 img{
   width: 100px;
