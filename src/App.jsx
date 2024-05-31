@@ -43,7 +43,7 @@ function App() {
 }
 
 const Container = styled.div`
-margin-left: 56px;
+margin-left: 50px;
 
 img{
   width: 100px;
@@ -84,7 +84,7 @@ button{
 }
 
 .last{
-  margin-top: 270px;
+  margin-top: 240px;
 }
 
 
