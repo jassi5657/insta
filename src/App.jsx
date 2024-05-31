@@ -84,7 +84,7 @@ button{
 }
 
 .last{
-  margin-top: 240px;
+  margin-top: 200px;
 }
 
 
