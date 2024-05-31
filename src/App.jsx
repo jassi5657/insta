@@ -22,7 +22,7 @@ function App() {
         <button>Log in</button>
 
       </form>
-        <p style={{marginLeft:"70px"}}>Forgotten Password?</p>
+        <p style={{marginLeft:"70px", width:"200px"}}>Forgotten Password?</p>
       <div className='last'>
 
 
