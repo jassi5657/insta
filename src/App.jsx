@@ -39,7 +39,7 @@ function App() {
 }
 
 const Container = styled.div`
-margin-left: 100px;
+margin-left: 85px;
 
 img{
   width: 100px;
