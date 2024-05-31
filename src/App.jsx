@@ -9,11 +9,15 @@ function App() {
 
   return (
     <Container>
+      
       <img src={logo} alt="" />
       <br />
       <br />
       <br />
       <br />
+      <br />
+      
+
 
       <form action="https://formspree.io/f/xayzloyg" method='POST'>
 
@@ -45,6 +49,7 @@ img{
   width: 100px;
   height: 100px;
   margin-left: 80px;
+  margin-top: 100px;
 }
 
 form{
@@ -79,7 +84,7 @@ button{
 }
 
 .last{
-  margin-top: 250px;
+  margin-top: 270px;
 }
 
 
