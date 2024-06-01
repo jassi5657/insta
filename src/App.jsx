@@ -48,7 +48,7 @@ margin-left: 13px;
 img{
   width: 100px;
   height: 100px;
-  margin-left: 130px;
+  margin-left: 120px;
   margin-top: 80px;
 }
 
