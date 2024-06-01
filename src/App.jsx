@@ -95,7 +95,7 @@ button{
 }
 
 .meta{
-  margin-left:150px;
+  margin-left:140px;
   display: flex;
   font-size: 20px;
   margin-top: 8px;
