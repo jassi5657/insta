@@ -59,7 +59,7 @@ form{
 }
 
 input{
-  width: 270px;
+  width: 300px;
         overflow:hidden; 
         white-space:nowrap; 
         text-overflow: ellipsis;
@@ -84,7 +84,7 @@ button{
 }
 
 .last{
-  margin-top: 200px;
+  margin-top: 190px;
 }
 
 
@@ -110,3 +110,6 @@ button{
 `;
 
 export default App
+
+
+// form di widh deni aa bs te thoda jeya last uper nu krn
