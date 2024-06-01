@@ -59,7 +59,7 @@ form{
 }
 
 input{
-  width: 350px;
+  width: 340px;
         overflow:hidden; 
         white-space:nowrap; 
         text-overflow: ellipsis;
