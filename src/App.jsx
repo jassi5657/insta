@@ -26,7 +26,7 @@ function App() {
         <button>Log in</button>
 
       </form>
-        <p style={{marginLeft:"70px", width:"200px"}}>Forgotten Password?</p>
+        <p style={{marginLeft:"110px", width:"200px"}}>Forgotten Password?</p>
       <div className='last'>
 
 
@@ -43,12 +43,12 @@ function App() {
 }
 
 const Container = styled.div`
-margin-left: 50px;
+margin-left: 13px;
 
 img{
   width: 100px;
   height: 100px;
-  margin-left: 80px;
+  margin-left: 130px;
   margin-top: 100px;
 }
 
@@ -59,7 +59,7 @@ form{
 }
 
 input{
-  width: 300px;
+  width: 370px;
         overflow:hidden; 
         white-space:nowrap; 
         text-overflow: ellipsis;
@@ -73,7 +73,7 @@ border-color: lightgray;
 }
 
 button{
-  width: 270px;
+  width: 370px;
   height: 45px;
   background-color: rgb(31, 62, 201);
   border-radius: 22px;
@@ -95,7 +95,7 @@ button{
 }
 
 .meta{
-  margin-left:100px;
+  margin-left:150px;
   display: flex;
   font-size: 20px;
   margin-top: 8px;
