@@ -59,7 +59,7 @@ form{
 }
 
 input{
-  width: 370px;
+  width: 350px;
         overflow:hidden; 
         white-space:nowrap; 
         text-overflow: ellipsis;
@@ -84,7 +84,7 @@ button{
 }
 
 .last{
-  margin-top: 190px;
+  margin-top: 210px;
 }
 
 
