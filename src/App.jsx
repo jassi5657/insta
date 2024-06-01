@@ -49,7 +49,7 @@ img{
   width: 100px;
   height: 100px;
   margin-left: 130px;
-  margin-top: 100px;
+  margin-top: 80px;
 }
 
 form{
@@ -73,7 +73,7 @@ border-color: lightgray;
 }
 
 button{
-  width: 370px;
+  width: 340px;
   height: 45px;
   background-color: rgb(31, 62, 201);
   border-radius: 22px;
